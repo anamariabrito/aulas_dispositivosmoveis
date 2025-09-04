@@ -1,0 +1,1 @@
+console.lo("Inhain bichan")
